@@ -5,7 +5,7 @@ const htmlcall = document.getElementsByTagName('html')[0];
 let htmlAttributesCall = htmlcall.getAttributeNames()
 
 focusarray.forEach(element => {
-	if(window.location.hostname.search(element) != -1)
+	if(window.location.href.search(element) != -1)
 	{
 		window.onload = function()
 		{
