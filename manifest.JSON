@@ -1,0 +1,25 @@
+{
+	"name": "Focus",
+    "version": "0.0.0.1",
+    "manifest_version": 2,
+    "description": "Deletes distractions for the sake of the productivity.",
+	"icons": {
+        "128": "icons/focus.png"
+    },
+	"browser_action": {
+        "default_popup": "popup.html",
+		"js": ["app.js"]
+    },
+	"content_scripts":[
+		{
+			"matches": ["<all_urls>"],
+			"js": ["app.js"]
+		}
+	],
+	"permissions": [
+        "tabs",
+        "background",
+        "http://*/*",
+        "https://*/*"
+    ]
+}
