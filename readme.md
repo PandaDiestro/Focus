@@ -1,6 +1,6 @@
 
 # FOCUS
-<center><img src = "https://raw.githubusercontent.com/PandaDiestro/Focus/main/icons/focus%20%282%29.png" width = "200"></center>
+<p align = "center"><img src = "https://raw.githubusercontent.com/PandaDiestro/Focus/main/icons/focus%20%282%29.png" width = "200"></p>
 
 Focus is a browser extension developed mainly for chromium-based interfaces like ms edge or chrome, but should work in any browser (modifying the manifest) since it only uses native javascript and html.
 
