@@ -4,15 +4,18 @@
 <p align="center"><img src = "https://raw.githubusercontent.com/PandaDiestro/Focus/main/icons/focus%20%282%29.png" width = "200"></p>
 
 ARE YOU A PROCRASTINATING PIECE OF [REDACTED]?!?!
-<br />
+\
+\
 WOULD YOU LIKE TO STOP SPENDING ALL DAY ON SOCIAL MEDIA AND BE AS PRODUCTIVE AS YOU WISH??
-<br />
+\
+\
 THEN THIS BROWSER EXTENSION WAS MADE TO YOU!! 
-
+\
+\
 **Focus** is a browser extension that deletes the body element of websites that can be a distraction, like social media, it works by checking if the website's url has one of the keywords at "focusarray" on app.js so you can modify which pages you want to delete or not.
-<br />
+\
+\
 Its still on development so if you have any bug or issue be sure to tell me :D
-<br />
 
 _---------- known issues: ---------_
 <ol>
