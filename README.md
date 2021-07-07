@@ -2,6 +2,7 @@
 
 # FOCUS
 <p align="center"><img src = "https://raw.githubusercontent.com/PandaDiestro/Focus/main/icons/focus%20%282%29.png" width = "200"></p>
+
 \
 \
 ARE YOU A PROCRASTINATING PIECE OF [REDACTED]?!?!
