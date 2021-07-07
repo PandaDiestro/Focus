@@ -1,4 +1,3 @@
-﻿**
 
 # FOCUS
 <center><img src = "https://raw.githubusercontent.com/PandaDiestro/Focus/main/icons/focus%20%282%29.png" width = "200"></center>
