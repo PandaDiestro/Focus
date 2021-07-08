@@ -3,6 +3,9 @@
 # FOCUS
 
 [![ISSUES](https://img.shields.io/github/issues/PandaDiestro/Focus?color=red&style=flat-square)](https://github.com/PandaDiestro/Focus/issues)  [![github](https://img.shields.io/badge/OFFICIAL%20REPO%3A-click%20me%204%20100%25%20real%20ass%20hair%20growing-red?style=flat-square)](https://github.com/PandaDiestro/Focus)
+
+![]()
+
 <p align="center"><img src = "https://raw.githubusercontent.com/PandaDiestro/Focus/main/icons/focus%20%282%29.png" width = "200"></p>
 
 \
