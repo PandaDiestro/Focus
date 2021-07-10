@@ -2,7 +2,7 @@
 
 # FOCUS
 
-[![ISSUES](https://img.shields.io/github/issues/PandaDiestro/Focus?color=red&style=flat-square)](https://github.com/PandaDiestro/Focus/issues)
+[![ISSUES](https://img.shields.io/github/issues/PandaDiestro/Focus?color=red&style=flat-square)](https://github.com/PandaDiestro/Focus/issues) [![License: MIT](https://img.shields.io/github/license/PandaDiestro/Focus?color=red&style=flat-square)](https://opensource.org/licenses/MIT)
 
 ![]()
 
