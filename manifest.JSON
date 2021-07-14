@@ -1,15 +1,15 @@
 {
 	"name": "Focus",
-    "version": "1.1.0",
-    "manifest_version": 2,
-    "description": "Deletes distractions for the sake of the productivity.",
+	"version": "1.1.0.0",
+	"manifest_version": 2,
+	"description": "Deletes distractions for the sake of the productivity.",
 	"icons": {
-        "128": "icons/focus.png"
-    },
+		"128": "icons/focus.png"
+	},
 	"browser_action": {
-        "default_popup": "popup.html",
+		"default_popup": "popup.html",
 		"js": ["app.js"]
-    },
+	},
 	"content_scripts":[
 		{
 			"matches": ["<all_urls>"],
@@ -17,9 +17,11 @@
 		}
 	],
 	"permissions": [
-        "tabs",
-        "background",
-        "http://*/*",
-        "https://*/*"
+		"webRequest",
+		"webRequestBlocking",
+		"tabs",
+		"background",
+		"http://*/*",
+		"https://*/*"
     ]
 }
