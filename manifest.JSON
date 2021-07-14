@@ -4,7 +4,7 @@
     "manifest_version": 2,
     "description": "Deletes distractions for the sake of the productivity.",
 	"icons": {
-        "128": "icons/focus.png"
+        "64": "icons/focus.ico"
     },
 	"browser_action": {
         "default_popup": "popup.html",
