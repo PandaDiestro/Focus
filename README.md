@@ -27,7 +27,6 @@ Its still on development so if you have any bug or issue be sure to tell me :D
 \
 _---------- known issues: ---------_
 <ol>
-  <li>Overloading at reddit</li>
   <li>There is not a "rest button" so the only way to stop the extension is from the extension panel of your browser</li>
 </ol>
 
