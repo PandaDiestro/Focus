@@ -13,10 +13,10 @@
 ARE YOU A PROCRASTINATING DUMBASS?!?!
 \
 \
-WOULD YOU LIKE TO STOP SPENDING ALL DAY ON SOCIAL MEDIA AND BE AS PRODUCTIVE AS YOU WISH??
+WOULD YOU LIKE TO STOP SPENDING ALL DAY ON SOCIAL MEDIA AND BE AS PRODUCTIVE AS YOU WISH????
 \
 \
-THEN THIS BROWSER EXTENSION WAS MADE TO YOU!! 
+THEN THIS BROWSER EXTENSION WAS MADE TO YOU!!1!1 
 \
 \
 **Focus** is a browser extension that takes you out from websites that can be a distraction, like social media, it works by checking if the website's url has one of the keywords at "focusarray" inside app.js so you can modify which pages you want to be taken from.
